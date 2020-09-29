@@ -1,3 +1,3 @@
-public class sink {
+public class Sink {
     
 }
